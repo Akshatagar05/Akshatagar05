@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-agarwal-77270832b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-agarwal05)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://akshatagarwal-alpha.vercel.app/)
 [![GitHub followers](https://img.shields.io/github/followers/Akshatagar05?style=for-the-badge&color=8A2BE2&labelColor=black)](https://github.com/Akshatagar05?tab=followers)
 
@@ -20,7 +20,7 @@ I'm an **AI/ML Developer** who loves turning machine learning models into real, 
 - 🧠 Interested in applied ML, LLM-powered agents, and data-driven decision systems
 - 🌱 Constantly leveling up in full-stack development to ship end-to-end AI products
 - 💬 Ask me about machine learning pipelines, AI integrations (Gemini API), or geospatial analytics
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/akshat-agarwal-77270832b) or check my [Portfolio](https://akshatagarwal-alpha.vercel.app/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/akshat-agarwal05) or check my [Portfolio](https://akshatagarwal-alpha.vercel.app/)
 
 ---
 
@@ -89,7 +89,7 @@ I'm an **AI/ML Developer** who loves turning machine learning models into real, 
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-agarwal-77270832b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-agarwal05)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://akshatagarwal-alpha.vercel.app/)
 
 ⭐️ *If you like what you see, check out my repos and drop a star!*
