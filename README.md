@@ -28,7 +28,7 @@ I'm an **AI/ML Developer** who loves turning machine learning models into real, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,react,tensorflow,pandas,git,github,docker,vercel,postgres,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,nodejs,react,tensorflow,pytorch,sklearn,opencv,pandas,git,github,docker,postgres&theme=dark" />
 
 </div>
 
@@ -69,10 +69,26 @@ I'm an **AI/ML Developer** who loves turning machine learning models into real, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshatagar05&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Akshatagar05&show_icons=true&theme=radical&hide_border=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatagar05&layout=compact&theme=radical&hide_border=true" width="49%" />
 
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshatagar05&theme=radical" width="49%" />
+
 </div>
+
+<details>
+<summary>👾 A little something extra</summary>
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Akshatagar05/Akshatagar05/output/output.gif" alt="contribution graph space shooter" width="70%" />
+</div>
+
+*(Requires the space-shooter workflow — see setup notes.)*
+
+</details>
 
 ---
 
